@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
