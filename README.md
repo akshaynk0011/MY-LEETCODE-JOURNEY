@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
