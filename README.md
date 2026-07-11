@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
+| [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
