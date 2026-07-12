@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
