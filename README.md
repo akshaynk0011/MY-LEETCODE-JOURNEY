@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
