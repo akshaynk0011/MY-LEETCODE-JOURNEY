@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
