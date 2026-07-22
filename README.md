@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -120,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
