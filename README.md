@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
