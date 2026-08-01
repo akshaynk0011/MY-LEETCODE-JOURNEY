@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 ## Greedy
 |  |
