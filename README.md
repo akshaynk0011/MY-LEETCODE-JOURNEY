@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 ## Sorting
