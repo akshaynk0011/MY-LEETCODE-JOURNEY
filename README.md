@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 ## Greedy
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
