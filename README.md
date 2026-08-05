@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 ## Sorting
