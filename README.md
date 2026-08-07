@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Memoization
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
