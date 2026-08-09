@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0704-binary-search) |
 ## Backtracking
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
