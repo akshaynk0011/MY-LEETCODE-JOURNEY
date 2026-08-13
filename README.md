@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
