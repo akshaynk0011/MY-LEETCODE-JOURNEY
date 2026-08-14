@@ -1,4 +1,5 @@
 class Solution {
+
     public int maxProfit(int[] prices) {
 
         int minPrice = Integer.MAX_VALUE;
@@ -6,15 +7,12 @@ class Solution {
 
         for (int i = 0; i < prices.length; i++) {
 
-            // track minimum price so far
             if (prices[i] < minPrice) {
                 minPrice = prices[i];
             }
 
-            // calculate profit
             int profit = prices[i] - minPrice;
 
-            // update max profit
             if (profit > maxProfit) {
                 maxProfit = profit;
             }
