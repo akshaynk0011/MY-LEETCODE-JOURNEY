@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Memoization
@@ -257,5 +261,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
