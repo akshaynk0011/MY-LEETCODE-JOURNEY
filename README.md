@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0704-binary-search) |
