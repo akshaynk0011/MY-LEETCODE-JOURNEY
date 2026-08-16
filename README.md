@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
