@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
