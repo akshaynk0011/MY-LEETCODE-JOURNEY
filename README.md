@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 ## Prefix Sum
