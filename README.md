@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
@@ -217,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
