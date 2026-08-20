@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -289,9 +292,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
