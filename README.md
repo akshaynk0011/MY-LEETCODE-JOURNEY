@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
