@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
@@ -57,8 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
@@ -75,14 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0009-palindrome-number) |
@@ -95,12 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0371-sum-of-two-integers) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0002-add-two-numbers) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
@@ -118,21 +118,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0016-3sum-closest) |
@@ -152,8 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0018-4sum) |
@@ -167,36 +167,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
@@ -205,8 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -218,8 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0039-combination-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0051-n-queens) |
@@ -229,14 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0131-palindrome-partitioning) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0043-multiply-strings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0054-spiral-matrix) |
@@ -244,14 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0079-word-search) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0118-pascals-triangle) |
@@ -264,8 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
@@ -273,66 +273,66 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0139-word-break) |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 ## Bubble Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0229-majority-element-ii) |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0142-linked-list-cycle-ii](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Treap
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/akshaynk0011/MY-LEETCODE-JOURNEY/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
